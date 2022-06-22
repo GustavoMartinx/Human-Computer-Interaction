@@ -1,4 +1,4 @@
-# cool-landing 
+# IHC Landing Page 
 
 ### [Original Project](https://github.com/nordicgiant2/cool-landing)
 ##
@@ -29,7 +29,7 @@ npm i
 npm start
 ```
 
-### 3. BUild
+### 3. Build
 ```shell
 npm run build
 ```
