@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Human-Computer-Interaction/static/css/main.53ab35fc.chunk.css",
+    "main.js": "/Human-Computer-Interaction/static/js/main.ba980516.chunk.js",
+    "main.js.map": "/Human-Computer-Interaction/static/js/main.ba980516.chunk.js.map",
+    "runtime-main.js": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js",
+    "runtime-main.js.map": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js.map",
+    "static/css/2.679831fc.chunk.css": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css",
+    "static/js/2.fd139b4d.chunk.js": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js",
+    "static/js/2.fd139b4d.chunk.js.map": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js.map",
+    "index.html": "/Human-Computer-Interaction/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.53ab35fc.chunk.css.map": "/Human-Computer-Interaction/static/css/main.53ab35fc.chunk.css.map",
+    "static/js/2.fd139b4d.chunk.js.LICENSE.txt": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js.LICENSE.txt",
+    "static/media/03.cd0f815a.jpg": "/Human-Computer-Interaction/static/media/03.cd0f815a.jpg",
+    "static/media/04.df589ddd.jpg": "/Human-Computer-Interaction/static/media/04.df589ddd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2cfef0.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.fd139b4d.chunk.js",
+    "static/css/main.53ab35fc.chunk.css",
+    "static/js/main.ba980516.chunk.js"
+  ]
+}
