@@ -5,13 +5,14 @@ const BlogPost = () => {
   return (
     <div className="blogpost">
         <div className="image-wrapper">
-          <img className="responsive-img" src={img} />
+          <img className="responsive-img" src={img} alt="nossas-fotos" />
         </div>
         <div className="content">
           <h4>This is a standard post</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, asperiores quod est tenetur in.</p>
         </div>
         <div className="footer">
+          {/* 
           <div className="row">
             <div className="footer-content">
               <i className="material-icons">today</i>
@@ -19,13 +20,14 @@ const BlogPost = () => {
             </div>
             <div className="footer-content">
               <i className="material-icons">chat bubble outline</i>
-              <a href="">6</a>
+              <p>6</p>
             </div>
           </div>
         </div>
         <div className="read-more">
-          <a href="">Read more</a>  // "link" dentro das aspas | Read more: externo
-        </div>
+          <a href="">Read more</a>
+          */}
+          </div>
     </div>
   );
 };

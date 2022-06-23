@@ -20,8 +20,10 @@ const Hero = () => {
             entirely customized and made to order
           </p>
 
+          {/*
           <a className="btn waves-light waves-effect m-r-16">Feature</a>
           <a className="btn waves-light waves-effect" target="_blank" href="https://github.com/nordicgiant2/cool-landing">Github</a>
+          */}
         </div>
       </div>
     </section>
