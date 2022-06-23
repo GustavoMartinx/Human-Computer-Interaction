@@ -6,9 +6,21 @@ const About = () => {
       <div className="container">
         <div className="row">
           <div className="col m6">
-            <h3>Bogus Studio</h3>
-            <p>We are a studio that aims to give our clients a platform that exemplifies a good user experience...</p>
+            <h3>Protótipo do Boost</h3>
+            <p>Veja abaixo o nosso aplicativo funcionando! </p>
           </div>
+
+          <div>
+          <iframe title="This is a unique title"
+          style={{border: '1px',
+                  width: 1200,
+                  height: 700}}
+                  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrDc98aVoPjy27CuIiEDRvz%2FUntitled%3Fnode-id%3D2%253A5%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A5%26show-proto-sidebar%3D1"
+                  allowfullscreen>
+          </iframe>
+          </div>
+
+          {/*
           <div className="col m6">
             <div className="stats">
               <div className="stat blue darken-2">
@@ -32,6 +44,7 @@ const About = () => {
         </div>
         <div className="row">
           <p>Along with a conservative dose of personality.</p>
+          */}
         </div>
       </div>
     </section>

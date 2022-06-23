@@ -11,13 +11,13 @@ const Hero = () => {
       <div className="container valign-wrapper jc-center">
         <div className="valign center-align white-text">
           <h2>
-            YOUR JAVASCRIPT LIBRARY
+            BOOST
           </h2>
 
           <p className="big">
-            We build your website using cutting edge frameworks
+            Economia de Energia
             <br/>
-            entirely customized and made to order
+            Amiga dos Bolsos e da Natureza
           </p>
 
           {/*
