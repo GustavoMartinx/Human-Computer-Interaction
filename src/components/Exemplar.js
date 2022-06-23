@@ -1,5 +1,4 @@
 import React from 'react';
-import sprintboard from '../img/04.jpg';
 
 const Exemplar = () => {
   return (
@@ -8,9 +7,8 @@ const Exemplar = () => {
         <div className="row">
           <div className="col l1"></div>
           <div className="col l10 center-align">
-            <h1>Modern Custom Websites</h1>
-            <p>We use a modern technology stack to build fast, responsive, single page web applications.</p>
-            <img className="responsive-img" src={sprintboard} alt="Figma ou video"/>
+            <h1>Vídeo de Conceito</h1>
+            <iframe width="1180" height="720" src="https://www.youtube.com/embed/ZUim4nymFEQ" title="Boost Project - Conceptual Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div className="col l1"></div>
         </div>

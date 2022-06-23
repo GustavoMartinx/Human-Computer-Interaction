@@ -120,3 +120,8 @@ p {
 .teal.lighten-1{
   background-color: #005bbc !important;
 }
+
+.exemplar {
+  display: flex;
+  justify-content: center-align;
+}
