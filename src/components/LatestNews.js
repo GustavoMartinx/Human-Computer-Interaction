@@ -5,7 +5,7 @@ const LatestNews = () => {
   return (
     <section id="news">
       <div className="container">
-        <h1>Latest from the Loop</h1>
+        <h1>Our Team</h1>
         <div className="row">
           <div className="col m4">
             <BlogPost />

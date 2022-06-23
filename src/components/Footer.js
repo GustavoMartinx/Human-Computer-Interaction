@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="row">
           <div className="col s3"></div>
           <div className="col s6 center-align white-text">
-            © 2019 All Rights Reserved Terms of Use and Privacy Policy
+            © 2022 All Rights Reserved Terms of Use and Privacy Policy
           </div>
           <div className="col s3"></div>
         </div>

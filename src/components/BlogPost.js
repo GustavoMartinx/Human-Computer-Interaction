@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../img/03.jpg';
+import img from '../img/reliquia.jpg';
 
 const BlogPost = () => {
   return (
@@ -8,7 +8,7 @@ const BlogPost = () => {
           <img className="responsive-img" src={img} alt="nossas-fotos" />
         </div>
         <div className="content">
-          <h4>This is a standard post</h4>
+          <h4>Tinha q bota nossas fotinha aqui</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, asperiores quod est tenetur in.</p>
         </div>
         <div className="footer">
@@ -23,9 +23,9 @@ const BlogPost = () => {
               <p>6</p>
             </div>
           </div>
-        </div>
-        <div className="read-more">
-          <a href="">Read more</a>
+          </div>
+          <div className="read-more">
+            <a href="">Read more</a>
           */}
           </div>
     </div>
