@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Human-Computer-Interaction/static/css/main.53ab35fc.chunk.css",
-    "main.js": "/Human-Computer-Interaction/static/js/main.ba980516.chunk.js",
-    "main.js.map": "/Human-Computer-Interaction/static/js/main.ba980516.chunk.js.map",
+    "main.js": "/Human-Computer-Interaction/static/js/main.befa0d10.chunk.js",
+    "main.js.map": "/Human-Computer-Interaction/static/js/main.befa0d10.chunk.js.map",
     "runtime-main.js": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js",
     "runtime-main.js.map": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js.map",
     "static/css/2.679831fc.chunk.css": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.fd139b4d.chunk.js",
     "static/css/main.53ab35fc.chunk.css",
-    "static/js/main.ba980516.chunk.js"
+    "static/js/main.befa0d10.chunk.js"
   ]
 }
