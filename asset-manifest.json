@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Human-Computer-Interaction/static/css/main.1ad8fb7f.chunk.css",
-    "main.js": "/Human-Computer-Interaction/static/js/main.935a74f5.chunk.js",
-    "main.js.map": "/Human-Computer-Interaction/static/js/main.935a74f5.chunk.js.map",
+    "main.js": "/Human-Computer-Interaction/static/js/main.2d682b14.chunk.js",
+    "main.js.map": "/Human-Computer-Interaction/static/js/main.2d682b14.chunk.js.map",
     "runtime-main.js": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js",
     "runtime-main.js.map": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js.map",
     "static/css/2.679831fc.chunk.css": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css",
@@ -12,13 +12,17 @@
     "static/css/2.679831fc.chunk.css.map": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css.map",
     "static/css/main.1ad8fb7f.chunk.css.map": "/Human-Computer-Interaction/static/css/main.1ad8fb7f.chunk.css.map",
     "static/js/2.fd139b4d.chunk.js.LICENSE.txt": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js.LICENSE.txt",
-    "static/media/reliquia.9e359573.jpg": "/Human-Computer-Interaction/static/media/reliquia.9e359573.jpg"
+    "static/media/Catarine.56328f36.jpg": "/Human-Computer-Interaction/static/media/Catarine.56328f36.jpg",
+    "static/media/Gustavo.44fc33c6.jpg": "/Human-Computer-Interaction/static/media/Gustavo.44fc33c6.jpg",
+    "static/media/Ingrid.73cda55f.jpg": "/Human-Computer-Interaction/static/media/Ingrid.73cda55f.jpg",
+    "static/media/Joao.701e358e.jpg": "/Human-Computer-Interaction/static/media/Joao.701e358e.jpg",
+    "static/media/Ruan.50144c1e.jpg": "/Human-Computer-Interaction/static/media/Ruan.50144c1e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d2cfef0.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.fd139b4d.chunk.js",
     "static/css/main.1ad8fb7f.chunk.css",
-    "static/js/main.935a74f5.chunk.js"
+    "static/js/main.2d682b14.chunk.js"
   ]
 }
