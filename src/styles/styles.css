@@ -108,7 +108,7 @@ p {
 }
 
 .btn:hover, .btn-large:hover{
-  background-color: #3c93f1;
+  background-color: var(--color-transitions);
 }
 
 .teal.lighten-1{
