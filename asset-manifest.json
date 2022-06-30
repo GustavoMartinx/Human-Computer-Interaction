@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Human-Computer-Interaction/static/css/main.1ad8fb7f.chunk.css",
-    "main.js": "/Human-Computer-Interaction/static/js/main.2d682b14.chunk.js",
-    "main.js.map": "/Human-Computer-Interaction/static/js/main.2d682b14.chunk.js.map",
+    "main.css": "/Human-Computer-Interaction/static/css/main.b49f2186.chunk.css",
+    "main.js": "/Human-Computer-Interaction/static/js/main.9598deca.chunk.js",
+    "main.js.map": "/Human-Computer-Interaction/static/js/main.9598deca.chunk.js.map",
     "runtime-main.js": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js",
     "runtime-main.js.map": "/Human-Computer-Interaction/static/js/runtime-main.8d2cfef0.js.map",
     "static/css/2.679831fc.chunk.css": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css",
@@ -10,19 +10,19 @@
     "static/js/2.fd139b4d.chunk.js.map": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js.map",
     "index.html": "/Human-Computer-Interaction/index.html",
     "static/css/2.679831fc.chunk.css.map": "/Human-Computer-Interaction/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.1ad8fb7f.chunk.css.map": "/Human-Computer-Interaction/static/css/main.1ad8fb7f.chunk.css.map",
+    "static/css/main.b49f2186.chunk.css.map": "/Human-Computer-Interaction/static/css/main.b49f2186.chunk.css.map",
     "static/js/2.fd139b4d.chunk.js.LICENSE.txt": "/Human-Computer-Interaction/static/js/2.fd139b4d.chunk.js.LICENSE.txt",
     "static/media/Catarine.56328f36.jpg": "/Human-Computer-Interaction/static/media/Catarine.56328f36.jpg",
-    "static/media/Gustavo.44fc33c6.jpg": "/Human-Computer-Interaction/static/media/Gustavo.44fc33c6.jpg",
+    "static/media/Gustavo.d5a78077.jpg": "/Human-Computer-Interaction/static/media/Gustavo.d5a78077.jpg",
     "static/media/Ingrid.73cda55f.jpg": "/Human-Computer-Interaction/static/media/Ingrid.73cda55f.jpg",
     "static/media/Joao.701e358e.jpg": "/Human-Computer-Interaction/static/media/Joao.701e358e.jpg",
-    "static/media/Ruan.50144c1e.jpg": "/Human-Computer-Interaction/static/media/Ruan.50144c1e.jpg"
+    "static/media/Ruan.4391f85a.jpg": "/Human-Computer-Interaction/static/media/Ruan.4391f85a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d2cfef0.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.fd139b4d.chunk.js",
-    "static/css/main.1ad8fb7f.chunk.css",
-    "static/js/main.2d682b14.chunk.js"
+    "static/css/main.b49f2186.chunk.css",
+    "static/js/main.9598deca.chunk.js"
   ]
 }
