@@ -4,6 +4,7 @@ import Hero from './Hero';
 import Exemplar from './Exemplar';
 import Features from './Features';
 import About from './About';
+import Artefacts from './Artefacts';
 import LatestNews from './LatestNews';
 import SocialBrand from './SocialBrand';
 import Footer from './Footer';
@@ -16,6 +17,7 @@ const App = () => {
       <Exemplar />
       <Features />
       <About />
+      <Artefacts />
       <LatestNews />
       <SocialBrand />
       <Footer />

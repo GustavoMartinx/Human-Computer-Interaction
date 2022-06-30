@@ -1,15 +1,14 @@
 import React from 'react';
-import img from '../img/reliquia.jpg';
 
-const BlogPost = () => {
+const BlogPost = ({ img, nome, dev }) => {
   return (
     <div className="blogpost">
         <div className="image-wrapper">
           <img className="responsive-img" src={img} alt="nossas-fotos" />
         </div>
         <div className="content">
-          <h4>Tinha q bota nossas fotinha aqui</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, asperiores quod est tenetur in.</p>
+          <h5>{nome}</h5>
+          <p>{dev}</p>
         </div>
         <div className="footer">
           {/* 
