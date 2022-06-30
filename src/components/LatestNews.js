@@ -9,8 +9,9 @@ import Ruan from '../img/Ruan.jpg'
 const LatestNews = () => {
   return (
     <section id="news">
-      <div className="container">
+      <div className="team">
         <h1>Our Team</h1>
+      </div>
           <div className='wrapper'>
             <BlogPost img={Joao} nome="João Vitor" dev="CEO & Dev"/>
             <BlogPost img={Gustavo} nome="Gustavo Martins" dev="Developer"/>
@@ -18,7 +19,6 @@ const LatestNews = () => {
             <BlogPost img={Catarine} nome="Catarine Cruz" dev="Developer"/>
             <BlogPost img={Ruan} nome="Ruan Lopes" dev="Developer"/>
           </div>
-      </div>
     </section>
   );
 };

@@ -38,6 +38,11 @@ p {
   font-size: 32px;
 }
 
+.team {
+  display: flex;
+  justify-content: center;
+}
+
 .blogpost .image-wrapper {
   flex: 4;
   margin: 0px auto;
