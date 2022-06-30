@@ -27,7 +27,7 @@ const BlogPost = () => {
           <div className="read-more">
             <a href="">Read more</a>
           */}
-          </div>
+        </div>
     </div>
   );
 };
