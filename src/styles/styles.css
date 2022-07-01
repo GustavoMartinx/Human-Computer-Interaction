@@ -34,6 +34,7 @@ p {
   padding: 32px;
   text-align: center;
 }
+
 .counter {
   font-size: 32px;
 }
@@ -186,4 +187,18 @@ p {
   transition: ease-in-out;
   transition-duration: 0.4s;
   color: var(--color-fontH5Hover)
+}
+
+.video {
+  justify-items: left;
+}
+
+.prototipo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.prototipo p {
+  padding-bottom: 2%;
 }

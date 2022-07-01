@@ -5,9 +5,9 @@ const About = () => {
     <section id="about">
       <div className="container">
         <div className="row">
-          <div className="col m6">
+          <div className="prototipo">
             <h3>Protótipo do Boost</h3>
-            <p>Veja abaixo o nosso aplicativo funcionando! </p>
+            <p>Teste o nosso aplicativo funcionando abaixo!</p>
           </div>
 
           <div>

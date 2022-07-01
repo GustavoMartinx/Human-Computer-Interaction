@@ -7,7 +7,7 @@ const Artefacts = () => {
         <div className="row">
           <div className="col m3"></div>
           <div className="col m6 center-align">
-            <h2>Artefatos Construídos</h2>
+            <h4>Artefatos Construídos</h4>
             
             <a href="https://www.mediafire.com/folder/1hh4pdqp2gw7h/Artefatos+Sprint">
                 <button className="btn"> Baixar Artefatos</button>
