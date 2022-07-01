@@ -3,11 +3,11 @@
 ### [Original Project](https://github.com/nordicgiant2/cool-landing)
 ##
 
-### [DEMO](https://nordicgiant2.github.io/cool-landing-page/index.html)
+### [DEMO](https://gustavomartinx.github.io/Human-Computer-Interaction/)
 
-![img](https://github.com/nordicgiant2/cool-landing/blob/master/image/01.jpg?raw=true)
+![img](src/img/print_hero.PNG)
 
-![img](https://github.com/nordicgiant2/cool-landing/blob/master/image/02.jpg?raw=true)
+![img](src/img/print_figma.PNG)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
