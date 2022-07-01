@@ -8,7 +8,7 @@ import Ruan from '../img/Ruan.jpg'
 
 const LatestNews = () => {
   return (
-    <section id="news">
+    <section id="ourteam">
       <div className="team">
         <h1>Our Team</h1>
       </div>

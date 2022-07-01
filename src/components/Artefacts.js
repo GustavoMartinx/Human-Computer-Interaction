@@ -2,7 +2,7 @@ import React from 'react';
 
 const Artefacts = () => {
   return (
-    <section id="features" className="grey lighten-4">
+    <section id="artefacts" className="dark">  {/* grey lighten-4 */}
       <div className="container">
         <div className="row">
           <div className="col m3"></div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Exemplar = () => {
   return (
-    <section id="examplar ">
+    <section id="exemplar">
       <div className="container">
         <div className="row">
           <div className="col m3"></div>

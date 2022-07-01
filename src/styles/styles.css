@@ -8,8 +8,32 @@ section {
   padding: 48px 0;
 }
 
+section#hero {
+  padding: 0px;
+}
+
 section#footer {
   padding: 24px 0;
+}
+
+section#about {
+  background-color: var(--color-background);
+  color: var(--color-fontH5);
+}
+
+section#features.dark {
+  color: var(--color-fontH5);
+  background-color: var(--color-background-dark);
+}
+
+section#artefacts.dark {
+  background-image: linear-gradient(to top, #1f002e, #4E107A);
+  color: var(--color-fontH5);
+}
+
+section#ourteam {
+  color: var(--color-fontH5);
+  background-color: var(--color-background-dark);
 }
 
 h1 {
@@ -121,9 +145,10 @@ p {
   background-color: var(--color-background) !important;
 }
 
-.exemplar {
+#exemplar {
   display: flex;
   justify-content: center-align;
+  background-color: var(--color-background);
 }
 
 * {
@@ -137,6 +162,7 @@ p {
   --color-fontH5Hover: #97A6A0;
   --color-background: #4E107A;
   --color-transitions: #9F1EFA;
+  --color-background-dark: #1f002e;
 }
 
 .wrapper {
@@ -191,6 +217,7 @@ p {
 
 .video {
   justify-items: left;
+  color: var(--color-fontH5);
 }
 
 .prototipo {

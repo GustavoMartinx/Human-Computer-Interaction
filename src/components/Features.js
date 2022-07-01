@@ -2,7 +2,7 @@ import React from 'react';
 
 const Features = () => {
   return (
-    <section id="features" className="grey lighten-4">
+    <section id="features" className="dark"> {/* grey lighten-4 */}
       <div className="container">
         <div className="row">
           <div className="col m3"></div>
